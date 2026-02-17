@@ -36,7 +36,7 @@ Construção de projetos com aplicação real
 📊 Estatísticas GitHub
 <p align="left"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=FlavioNunes1&show_icons=true&theme=dark"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNunes1&layout=compact&theme=dark"/> </p>
 🤝 Conecte-se Comigo
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-nascimento-b23b76306/)
 ⚡ Diferencial
 
 Não busco apenas escrever código.
